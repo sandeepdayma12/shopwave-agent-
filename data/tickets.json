@@ -1,0 +1,22 @@
+[
+  { "ticket_id": "TKT-001", "customer_email": "alice.turner@email.com", "subject": "Refund request for headphones", "body": "Hi, I bought a pair of headphones last month but they stopped working after a week. Order number is ORD-1001. I'd like a full refund please." },
+  { "ticket_id": "TKT-002", "customer_email": "bob.mendes@email.com", "subject": "I want to return my watch", "body": "Hello, I received my smart watch on March 4th (order ORD-1002) but I don't like it. Can I return it for a refund?" },
+  { "ticket_id": "TKT-003", "customer_email": "carol.nguyen@email.com", "subject": "Coffee maker stopped working", "body": "My BrewMaster coffee maker (ORD-1003) stopped heating water about 2 weeks ago. It's clearly a defect. I want a replacement or refund." },
+  { "ticket_id": "TKT-004", "customer_email": "david.park@email.com", "subject": "Wrong size delivered", "body": "I ordered size 10 running shoes (ORD-1004) and received size 9. This is unacceptable. I need the correct size or a full refund." },
+  { "ticket_id": "TKT-005", "customer_email": "emma.collins@email.com", "subject": "Return request", "body": "Hi team, I'd like to return the two bluetooth speakers I ordered back in December (ORD-1005). I know it might be past the return window but I've been traveling. Can you help?" },
+  { "ticket_id": "TKT-006", "customer_email": "frank.osei@email.com", "subject": "I want to cancel", "body": "Hey, I want to cancel my recent yoga mat order ORD-1006. Can you do that before it ships?" },
+  { "ticket_id": "TKT-007", "customer_email": "grace.patel@email.com", "subject": "Laptop stand return", "body": "I want to return my laptop stand (ORD-1007). It wobbles too much and isn't stable. I ordered it about 6 weeks ago." },
+  { "ticket_id": "TKT-008", "customer_email": "henry.marsh@email.com", "subject": "Lamp came broken", "body": "The desk lamp I ordered arrived with a cracked base. The box also looked damaged. I have photos if needed. Order ORD-1008." },
+  { "ticket_id": "TKT-009", "customer_email": "irene.castillo@email.com", "subject": "Refund already done?", "body": "Hi I submitted a refund for my headphones (ORD-1009) a few days ago. Can you confirm it went through?" },
+  { "ticket_id": "TKT-010", "customer_email": "james.wu@email.com", "subject": "Where is my order?", "body": "I ordered a coffee maker over 3 days ago and haven't received it. What is going on? Order ORD-1010." },
+  { "ticket_id": "TKT-011", "customer_email": "kelly.zhao@email.com", "subject": "Shoes warranty", "body": "My running shoes ORD-1011 are peeling at the sole after two weeks. I want a warranty replacement or refund." },
+  { "ticket_id": "TKT-012", "customer_email": "leo.martinez@email.com", "subject": "Watch battery drains fast", "body": "PulseX watch from order ORD-1012 dies in under 12 hours. Please advise on repair or return." },
+  { "ticket_id": "TKT-013", "customer_email": "maya.singh@email.com", "subject": "Headphones pairing issue", "body": "ProSound headphones ORD-1013 will not pair with my laptop. I've tried resetting. Need help or refund." },
+  { "ticket_id": "TKT-014", "customer_email": "noah.brooks@email.com", "subject": "Speaker volume crackling", "body": "BoomBox speaker ORD-1014 crackles at medium volume. I'd like a replacement." },
+  { "ticket_id": "TKT-015", "customer_email": "olivia.hart@email.com", "subject": "Stand not shipped yet", "body": "I ordered laptop stand ORD-1015 last week. Tracking shows stuck in transit. When will it arrive?" },
+  { "ticket_id": "TKT-016", "customer_email": "paul.kim@email.com", "subject": "Coffee maker refund", "body": "BrewMaster ORD-1016 arrived with a dented water tank. I want a full refund." },
+  { "ticket_id": "TKT-017", "customer_email": "quinn.reed@email.com", "subject": "Lamp flicker", "body": "LumiDesk lamp ORD-1017 flickers constantly. Unsafe — please refund." },
+  { "ticket_id": "TKT-018", "customer_email": "rita.lopez@email.com", "subject": "Yoga mat smell", "body": "ZenFlow mat ORD-1018 has a strong chemical smell. Can I return it?" },
+  { "ticket_id": "TKT-019", "customer_email": "sam.ibrahim@email.com", "subject": "VIP wrong item", "body": "As a VIP I expected better — order ORD-1019 shows delivered but I received the wrong color shoes." },
+  { "ticket_id": "TKT-020", "customer_email": "tina.novak@email.com", "subject": "Headphones case missing", "body": "Order ORD-1020 headphones arrived without the charging case listed on the site. Send the case or refund partial amount." }
+]

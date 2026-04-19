@@ -1,0 +1,22 @@
+[
+  { "order_id": "ORD-1001", "customer_id": "C001", "product_id": "P001", "quantity": 1, "amount": 129.99, "status": "delivered", "return_deadline": "2024-03-15", "refund_status": null },
+  { "order_id": "ORD-1002", "customer_id": "C002", "product_id": "P006", "quantity": 1, "amount": 249.99, "status": "delivered", "return_deadline": "2024-03-19", "refund_status": null },
+  { "order_id": "ORD-1003", "customer_id": "C003", "product_id": "P003", "quantity": 1, "amount": 199.99, "status": "delivered", "return_deadline": "2024-02-08", "refund_status": null },
+  { "order_id": "ORD-1004", "customer_id": "C004", "product_id": "P002", "quantity": 1, "amount": 89.99, "status": "delivered", "return_deadline": "2024-03-25", "refund_status": null },
+  { "order_id": "ORD-1005", "customer_id": "C005", "product_id": "P008", "quantity": 2, "amount": 159.98, "status": "delivered", "return_deadline": "2024-01-18", "refund_status": null },
+  { "order_id": "ORD-1006", "customer_id": "C006", "product_id": "P005", "quantity": 1, "amount": 39.99, "status": "delivered", "return_deadline": "2024-04-12", "refund_status": null },
+  { "order_id": "ORD-1007", "customer_id": "C007", "product_id": "P004", "quantity": 1, "amount": 49.99, "status": "delivered", "return_deadline": "2024-04-05", "refund_status": null },
+  { "order_id": "ORD-1008", "customer_id": "C008", "product_id": "P007", "quantity": 1, "amount": 44.99, "status": "delivered", "return_deadline": "2024-04-07", "refund_status": null },
+  { "order_id": "ORD-1009", "customer_id": "C009", "product_id": "P001", "quantity": 1, "amount": 129.99, "status": "delivered", "return_deadline": "2024-03-29", "refund_status": "refunded" },
+  { "order_id": "ORD-1010", "customer_id": "C010", "product_id": "P003", "quantity": 1, "amount": 199.99, "status": "shipped", "return_deadline": null, "refund_status": null },
+  { "order_id": "ORD-1011", "customer_id": "C011", "product_id": "P002", "quantity": 1, "amount": 89.99, "status": "delivered", "return_deadline": "2024-03-20", "refund_status": null },
+  { "order_id": "ORD-1012", "customer_id": "C012", "product_id": "P006", "quantity": 1, "amount": 249.99, "status": "delivered", "return_deadline": "2024-03-18", "refund_status": null },
+  { "order_id": "ORD-1013", "customer_id": "C013", "product_id": "P001", "quantity": 1, "amount": 129.99, "status": "delivered", "return_deadline": "2024-03-22", "refund_status": null },
+  { "order_id": "ORD-1014", "customer_id": "C014", "product_id": "P008", "quantity": 1, "amount": 79.99, "status": "delivered", "return_deadline": "2024-02-28", "refund_status": null },
+  { "order_id": "ORD-1015", "customer_id": "C015", "product_id": "P004", "quantity": 1, "amount": 49.99, "status": "shipped", "return_deadline": null, "refund_status": null },
+  { "order_id": "ORD-1016", "customer_id": "C016", "product_id": "P003", "quantity": 1, "amount": 199.99, "status": "delivered", "return_deadline": "2024-03-30", "refund_status": null },
+  { "order_id": "ORD-1017", "customer_id": "C017", "product_id": "P007", "quantity": 1, "amount": 44.99, "status": "delivered", "return_deadline": "2024-03-10", "refund_status": null },
+  { "order_id": "ORD-1018", "customer_id": "C018", "product_id": "P005", "quantity": 1, "amount": 39.99, "status": "delivered", "return_deadline": "2024-03-28", "refund_status": null },
+  { "order_id": "ORD-1019", "customer_id": "C019", "product_id": "P002", "quantity": 1, "amount": 89.99, "status": "delivered", "return_deadline": "2024-03-12", "refund_status": null },
+  { "order_id": "ORD-1020", "customer_id": "C020", "product_id": "P001", "quantity": 1, "amount": 129.99, "status": "delivered", "return_deadline": "2024-03-14", "refund_status": null }
+]

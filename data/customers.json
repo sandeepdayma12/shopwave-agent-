@@ -1,0 +1,22 @@
+[
+  { "customer_id": "C001", "name": "Alice Turner", "email": "alice.turner@email.com", "tier": "vip" },
+  { "customer_id": "C002", "name": "Bob Mendes", "email": "bob.mendes@email.com", "tier": "standard" },
+  { "customer_id": "C003", "name": "Carol Nguyen", "email": "carol.nguyen@email.com", "tier": "premium" },
+  { "customer_id": "C004", "name": "David Park", "email": "david.park@email.com", "tier": "standard" },
+  { "customer_id": "C005", "name": "Emma Collins", "email": "emma.collins@email.com", "tier": "vip" },
+  { "customer_id": "C006", "name": "Frank Osei", "email": "frank.osei@email.com", "tier": "standard" },
+  { "customer_id": "C007", "name": "Grace Patel", "email": "grace.patel@email.com", "tier": "premium" },
+  { "customer_id": "C008", "name": "Henry Marsh", "email": "henry.marsh@email.com", "tier": "standard" },
+  { "customer_id": "C009", "name": "Irene Castillo", "email": "irene.castillo@email.com", "tier": "premium" },
+  { "customer_id": "C010", "name": "James Wu", "email": "james.wu@email.com", "tier": "standard" },
+  { "customer_id": "C011", "name": "Kelly Zhao", "email": "kelly.zhao@email.com", "tier": "standard" },
+  { "customer_id": "C012", "name": "Leo Martinez", "email": "leo.martinez@email.com", "tier": "premium" },
+  { "customer_id": "C013", "name": "Maya Singh", "email": "maya.singh@email.com", "tier": "vip" },
+  { "customer_id": "C014", "name": "Noah Brooks", "email": "noah.brooks@email.com", "tier": "standard" },
+  { "customer_id": "C015", "name": "Olivia Hart", "email": "olivia.hart@email.com", "tier": "standard" },
+  { "customer_id": "C016", "name": "Paul Kim", "email": "paul.kim@email.com", "tier": "premium" },
+  { "customer_id": "C017", "name": "Quinn Reed", "email": "quinn.reed@email.com", "tier": "standard" },
+  { "customer_id": "C018", "name": "Rita Lopez", "email": "rita.lopez@email.com", "tier": "standard" },
+  { "customer_id": "C019", "name": "Sam Ibrahim", "email": "sam.ibrahim@email.com", "tier": "vip" },
+  { "customer_id": "C020", "name": "Tina Novak", "email": "tina.novak@email.com", "tier": "standard" }
+]

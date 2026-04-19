@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: shopwave_app
+
+    ports:
+      - "8007:8007"
+      - "8502:8502"
+
+    env_file:
+      - .env
+
+    environment:
+      - FASTAPI_URL=http://localhost:8007
+      - BACKEND_PORT=8007
+      - FRONTEND_PORT=8502
+
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8007/health', timeout=5).read()",
+        ]
+      interval: 8s
+      timeout: 6s
+      retries: 15
+      start_period: 25s
+
+    restart: unless-stopped
+    
